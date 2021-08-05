@@ -1,7 +1,5 @@
 package AddressBook;
-
 import java.util.HashSet;
-
 public class AddressBookUC7 {
         public static void main(String[] args) {
             HashSet<String> Fname=new HashSet<String>();
